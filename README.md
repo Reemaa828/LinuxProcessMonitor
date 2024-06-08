@@ -1,6 +1,7 @@
 # Linux Process Monitor 🖲️
-Process Monitor is a Bash script designed to help you manage, view, and analyze running processes on Unix-like systems. This powerful yet simple tool provides a range of features that make it easier to monitor system performance, terminate unwanted processes, and stay informed about resource usage.
+Process Monitor is a Bash script designed to help you manage, view, and analyze running processes on Linux. This powerful yet simple tool provides a range of features that make it easier to monitor system performance, terminate unwanted processes, and stay informed about resource usage.
 
+  
 ## Features ⚙️
 | Feature                   | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
@@ -15,10 +16,7 @@ Process Monitor is a Bash script designed to help you manage, view, and analyze 
 | **Logging**               | Record process-related activities, especially when a process is terminated.  |
 | **Configuration Options** | Customize the script through a configuration file with settings such as update interval and alert thresholds. |
 
-## Getting started 🚀
-- Save the script: Name it something descriptive, like process_monitor.sh: 
-- Make it executable: `chmod +x process_monitor.sh` (run this command in your terminal) or `chmod 777 organize_files.sh`
-- Run the script: `./process_monitor.sh` .
+
 
 ## First view 🏁
 ![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/a7a0eb4c-864e-4170-8c66-87905e5b42cf)
@@ -35,3 +33,31 @@ Process Monitor is a Bash script designed to help you manage, view, and analyze 
 ## Feature 4️⃣: Process Statistics
 ![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/8ba3a4b2-4ed2-4d9a-9b85-84980f9c40db)
 
+## Feature 5️⃣: Real-time Monitoring
+https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/cf08b980-e3c4-4a16-b9ee-b3dc696a82ac
+
+## Feature 6️⃣: Search and Filter
+https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/3e5446c6-a649-465f-b348-e64a382d7d7c
+
+## Feature 7️⃣: Resource Usage Alerts
+memory threshold is 0 and the process uses higher 0.4
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/8d4e9c8f-a440-43b5-8faa-53abbcb5c0c3)
+
+## Feature 8️⃣: Logging
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/104191a1-1938-4d37-9774-d66abc94e542)
+
+## Feature 9️⃣: Configuration Options
+orginal configuration file:
+
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/f0835fdd-d3b0-414d-bfd0-99b6e7f01c0c)
+
+
+https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/4b5a0b00-8f7d-474e-9b07-8a3ecee1f702
+
+
+after editing:
+
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/df573650-40b9-46b3-a2bd-6de63b4a856e)
+
+___
+# And that's a wrap! 🎉🌠
