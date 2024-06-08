@@ -19,3 +19,19 @@ Process Monitor is a Bash script designed to help you manage, view, and analyze 
 - Save the script: Name it something descriptive, like process_monitor.sh: 
 - Make it executable: `chmod +x process_monitor.sh` (run this command in your terminal) or `chmod 777 organize_files.sh`
 - Run the script: `./process_monitor.sh` .
+
+## First view 🏁
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/a7a0eb4c-864e-4170-8c66-87905e5b42cf)
+
+## Feature 1️⃣: List Running Processes
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/9d365885-e33a-489e-8223-ac86f7d4c044)
+
+## Feature 2️⃣: Process Information
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/8e9dbffa-4ae4-44f0-a38d-fda69e83d6b5)
+
+## Feature 3️⃣: Kill a Process
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/a0132db5-c0e5-4302-8367-4c7e8b9e8cb6)
+
+## Feature 4️⃣: Process Statistics
+![image](https://github.com/Reemaa828/LinuxProcessMonitor/assets/112731236/8ba3a4b2-4ed2-4d9a-9b85-84980f9c40db)
+
