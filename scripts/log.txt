@@ -1,0 +1,100 @@
+ 08-06-2024 16:13:57
+listing processes
+
+ 
+ 08-06-2024 16:15:09
+process information of pid=3
+
+ 
+ 08-06-2024 16:16:54
+terminate process of pid=6795
+
+ 
+ 08-06-2024 16:19:39
+terminate process of pid=6876
+
+ 
+ 08-06-2024 16:21:26
+displaying the process statistics
+
+ 
+ 08-06-2024 16:25:08
+displaying the process statistics
+
+ 
+ 08-06-2024 16:29:32
+monitoring processes real time
+
+ 
+ 08-06-2024 16:33:12
+searching a process
+
+ 
+ 08-06-2024 16:33:19
+searching a process
+
+ 
+ 08-06-2024 16:33:26
+searching a process
+
+ 
+ 08-06-2024 16:35:59
+editing in config file the configurations
+
+ 
+ 08-06-2024 16:36:24
+monitoring processes real time
+
+ 
+ 08-06-2024 16:37:45
+editing in config file the configurations
+
+ 
+ 08-06-2024 16:39:56
+monitoring processes real time
+
+ 
+ 08-06-2024 16:42:05
+editing in config file the configurations
+
+ 
+ 08-06-2024 16:42:23
+monitoring processes real time
+
+ 
+ 08-06-2024 16:44:40
+monitoring processes real time
+
+ 
+ 08-06-2024 16:45:38
+monitoring processes real time
+
+ 
+ 08-06-2024 16:46:14
+monitoring processes real time
+
+ 
+ 08-06-2024 16:48:53
+monitoring processes real time
+
+ 
+ 08-06-2024 16:49:06
+editing in config file the configurations
+
+ 
+ 08-06-2024 16:49:22
+monitoring processes real time
+
+ 
+ 08-06-2024 16:50:09
+monitoring processes real time
+
+ 
+ 08-06-2024 16:54:41
+editing in config file the configurations
+
+ 
+ 08-06-2024 16:54:58
+editing in config file the configurations
+
+ 
