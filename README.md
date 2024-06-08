@@ -1,4 +1,6 @@
-# Linux Process Monitor 🖲️
+<img src="images/logo.svg" align="left" />
+
+# Linux Process Monitor 
 Process Monitor is a Bash script designed to help you manage, view, and analyze running processes on Linux. This powerful yet simple tool provides a range of features that make it easier to monitor system performance, terminate unwanted processes, and stay informed about resource usage.
 
   
